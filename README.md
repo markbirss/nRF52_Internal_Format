@@ -1,5 +1,5 @@
 
-### Internal Format of Adafruit Internal File System of nRF52 based devices
+### Adafruit Internal File System Format of nRF52 based devices
 
 Download the pre-compiled generated uf2 
 
