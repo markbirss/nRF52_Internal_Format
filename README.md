@@ -3,6 +3,7 @@ Internal Format of Adafruit Internal File System of nRF52 based devices
 
 
 Arduino Code (Meshtastic_nRF52_factory_erase.ino)
+
 Based on Adafruit Internal File System on BlueFruit nRF52 - Internal_Format
 
 /*********************************************************************
