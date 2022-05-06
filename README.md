@@ -1,6 +1,13 @@
 
 ### Internal Format of Adafruit Internal File System of nRF52 based devices
 
+Download the pre-compiled generated uf2 
+
+Meshtastic_nRF52_factory_erase.uf2
+
+or
+
+
 ### Compile with Arduino selecting a Adafruit nRF52 Board eg Nordic nRF72540 DK
 
 ![Screenshot_20220506_225929](Screenshot_20220506_225929.png)
