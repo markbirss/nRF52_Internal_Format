@@ -6,6 +6,7 @@ Download the pre-compiled generated uf2
 Meshtastic_nRF52_factory_erase.uf2
 
 MD5SUM
+
 6f634aed38d276039b89ac6214de7108
 
 or
