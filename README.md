@@ -46,6 +46,7 @@ your nRF52 device will automatically reboot and show the screen below
 
 Press any key to continue to format your nRF52 device
 
-![Screenshot_20220328_100609](Screenshot_20220328_100609.png)
+
+![Screenshot_20220328_100628](Screenshot_20220328_100628.png)
 
 
