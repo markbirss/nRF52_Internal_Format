@@ -42,11 +42,14 @@ double press the reset button to connect to the the uf2 volume
 
 your nRF52 device will automatically reboot and show the screen below
 
-![Screenshot_20220328_100628](Screenshot_20220328_100628.png)
+![image](https://github.com/markbirss/nRF52_Internal_Format/assets/22388007/fe540422-bb41-4eb3-b803-63393b04e147)
+
 
 Press any key to continue to format your nRF52 device
 
-![image](https://github.com/markbirss/nRF52_Internal_Format/assets/22388007/b4c796db-0055-4938-94ae-e7e1fb409f59)
+![image](https://github.com/markbirss/nRF52_Internal_Format/assets/22388007/a40eb2de-6c6d-4166-a4d1-5103668022f0)
+
+
 
 
 
