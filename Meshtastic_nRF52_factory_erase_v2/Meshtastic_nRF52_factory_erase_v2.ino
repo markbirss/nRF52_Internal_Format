@@ -47,6 +47,7 @@ void setup()
   Serial.println("Done, rebooting device into DFU mode");
   delay(1); // for message appear on monitor
   enterDfuMode();
+  delay(1); // for message appear on monitor
 }
 
 // the loop function runs over and over again forever
