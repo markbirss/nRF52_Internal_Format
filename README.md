@@ -25,7 +25,7 @@ find /tmp -name Meshtastic_nRF52_factory_erase.ino.hex
 ### Convert the hex file to uf2
 ______________________________________
 ```
-./uf2conv.py Meshtastic_nRF52_factory_erase.ino.hex -c -f 0xADA52840; cp flash.uf2 Meshtastic_nRF52_factory_erase.uf2
+./uf2conv.py Meshtastic_nRF52_factory_erase.ino.hex -c -f 0xADA52840 -o Meshtastic_nRF52_factory_erase.uf2
 ```
 
 ### Usage
