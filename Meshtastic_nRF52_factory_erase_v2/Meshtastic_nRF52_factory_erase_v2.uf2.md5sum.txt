@@ -1,0 +1,2 @@
+6729c3c320470b451293ef9483eec550  Meshtastic_nRF52_factory_erase_v2.uf2
+
