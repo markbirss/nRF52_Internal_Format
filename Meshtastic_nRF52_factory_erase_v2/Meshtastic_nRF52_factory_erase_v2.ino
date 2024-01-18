@@ -11,7 +11,6 @@
  All text above, and the splash screen below must be included in
  any redistribution
 *********************************************************************/
-
 #include <Adafruit_LittleFS.h>
 #include <InternalFileSystem.h>
 #include <Adafruit_TinyUSB.h> // for Serial
@@ -28,16 +27,12 @@ void setup()
 {
   Serial.begin(115200);
   while ( !Serial ) delay(10);   // for nrf52840 with native usb
-
-  Serial.println();
-  Serial.println();
   Serial.println("Meshtastic nRF52 Factory Restore v2 18 Jan 2024 - by Mark Birss");
   Serial.println();
 
   // Wait for user input to run.
   Serial.println("Press any key continue to erase and factory restore your nRF52");
   while ( !Serial.available() ) delay(1);
-  Serial.println();
   Serial.println();
 
   // Initialize Internal File System
@@ -49,8 +44,8 @@ void setup()
   // Format 
   InternalFS.format();
 
-  Serial.println("Done, rebooting device to DFU mode");
-  //TinyUSB_Port_EnterDFU();
+  Serial.println("Done, rebooting device into DFU mode");
+  delay(1); // for message appear on monitor
   enterDfuMode();
 }
 
