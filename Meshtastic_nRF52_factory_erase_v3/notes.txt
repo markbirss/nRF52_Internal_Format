@@ -8,7 +8,12 @@ Board-ID: WisBlock-RAK4631-Board
 Date: Dec  1 2021
 SoftDevice: S140 6.1.1   <----------------------------------------------------------------  THIS IS YOUR SoftDevice
 
-
+UF2 Bootloader 0.4.3
+Model: WisBlock RAK4631 Board
+Board-ID: WisBlock-RAK4631-Board
+Date: May 20 2023
+Ver: 0.4.3
+SoftDevice: S140 6.1.1   <----------------------------------------------------------------  THIS IS YOUR SoftDevice
 
 use the appropriate Meshtastic_nRF52_factory_erase uf2 file
 
