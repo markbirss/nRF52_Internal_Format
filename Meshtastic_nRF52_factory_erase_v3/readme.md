@@ -22,7 +22,7 @@ SoftDevice: S140 6.1.1   <------------------------------------------------------
 
 ### Use the appropriate Meshtastic_nRF52_factory_erase uf2 file
 
-Meshtastic_nRF52_factory_erase_v3_S140_6.1.1.uf2 for devices with SoftDevice: S140 6.1.0 MD5SUM a7d97d344d411d79bc45d21555f968c4
+Meshtastic_nRF52_factory_erase_v3_S140_6.1.1.uf2 for devices with SoftDevice: S140 6.1.1 MD5SUM a7d97d344d411d79bc45d21555f968c4
 Meshtastic_nRF52_factory_erase_v3_S140_7.3.0.uf2 for devices with SoftDevice: S140 7.3.0 MD5SUM d864c57b83efad923b8274f92dc22a00
 
 
