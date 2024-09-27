@@ -30,4 +30,6 @@ Meshtastic_nRF52_factory_erase_v3_S140_7.3.0.uf2 for devices with SoftDevice: S1
 
 [Link] - https://github.com/markbirss/nRF52_Internal_Format/raw/refs/heads/main/Meshtastic_nRF52_factory_erase_v3/S140_7.3.0/Meshtastic_nRF52_factory_erase_v3_S140_7.3.0.uf2
 
-[Note] -  The nrf52_factory_erase port has now been added to the meshtastic github as a plaftformio project
+[Note] -  The nrf52_factory_erase uf2 fw has now been added to meshtastic github (platformmio)
+
+[Link] - https://github.com/meshtastic/nrf52_factory_erase
