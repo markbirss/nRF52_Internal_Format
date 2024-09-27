@@ -1,4 +1,7 @@
+### Repository has now moved to https://github.com/meshtastic/nrf52_factory_erase
 
+
+### Old Notes
 ### Adafruit Internal File System Format of nRF52 based devices
 
 Download the pre-compiled generated uf2 
